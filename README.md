@@ -1,2 +1,2 @@
-## CppProgramming
-# KoreaTech First Semester in 2015
+# CppProgramming
+## KoreaTech First Semester in 2015
